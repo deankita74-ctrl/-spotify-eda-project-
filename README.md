@@ -102,4 +102,4 @@ Ankita De
 
 
 
-Would you like me to make the README more **aesthetic (with emojis, badges, and color styling)** or keep it **clean and minimal for academic submission**?
+
